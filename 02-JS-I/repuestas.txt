@@ -1,0 +1,31 @@
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+
+1. Una variable es aquella que se utiliza 
+para guardar datos como para asiganar 
+y represtar valores en una expresion en programcion-
+
+2. Strings: es una secuancia de caracteres usado 
+para representar un texto.
+
+3- Funciones: son aquellas que con un bloque de codigo
+ pueden realizar alguna operacion.
+ argumentos: es el medio por el cual podemos 
+             expandir el ambito de variables 
+             locales de funciones.
+  return:    aquella que me permite terminar la 
+             ejecucion y devuelve el contro a la 
+             funcion de llamada.
+                    
+4. Declaraciones if: se utiliza para evaluar exprecion condicional
+                     si cumple aquella condicion(es verdadera) ella 
+                     ejecuta un bloque de condigo. Si es falsa, es
+                     posible ejecutar otras sentencias.
+
+5. Valore Booleanos: representa valores de verdad; es decir, TRUE o FALSE.
+                     una expresíon booleana o un predicado puede generar una valores
+                     desconocido, que ese representa mediante el valor nuelo.
