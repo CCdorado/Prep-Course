@@ -231,7 +231,6 @@ function doWhile(numero) {
   return numeroAumentado;
 }
 
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
