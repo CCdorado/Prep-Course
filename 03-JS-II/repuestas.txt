@@ -1,0 +1,23 @@
+for: es un ciclo por el cual se puede repetir 
+varias instrucciones en cierto numero de 
+ocaciones. Se emplea en el recorrido de vectores
+matrices y estructuras, entre otros.
+
+
+&&, ||, !: 
+
+&&: es un operador logico que compara dos 
+expreciones. Si la primera se evalua como "verdadera"
+la sentencia devolvera el varlor de la segunda expresio.
+Si la primera expresion se evalua como falsa
+la sentencia devolvera el valor de par primera expresion.
+
+||: operador logico que compara expresiones.
+    si la primera se evalua como "falsa",la sentencia
+    devolvera el valor de la segunda expresion-
+    si la primera se evalua como "verdadera", la sentencia
+    devolvera el valor de la primera.
+
+ !: este operador logico NOT no realiza ninguna
+    comparcion como lo hacen los operadores AND y
+    OR. Ademas, se opera en solo operador.   
